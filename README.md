@@ -5,7 +5,7 @@ preparing a housing dataset for regression and classification models.
 
 ## 📊 Dataset Overview
 
-![Dataset structure](.png)
+![Dataset structure](datos_descrip.png)
 
 ### Main steps:
 - Exploratory Data Analysis (EDA)
